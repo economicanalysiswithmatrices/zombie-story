@@ -13,7 +13,8 @@ In this assignment, you will familiarize with the Github platform and the workfl
 
 ## Tasks
 
-1. **Check on Github if there are open pull requests. If there are some, choose one and merge it into the master branch.** 
+1. **Check on Github if there are open pull requests. If there are some, choose one and merge it into the master branch.**
+If there are conflicts, try and follow these instructions: https://help.github.com/articles/resolving-a-merge-conflict-on-github/ 
 2. **If there are any problems in doing that, open a new issue**. 
 3. Clone this repository on you machine. You will be seeing the content in the ```master``` branch.
 4. Create a new branch with your Surrey username (the first 7 letters in your Surrey email, something like am00343).
