@@ -1,5 +1,7 @@
 # zombie-story
 
+(<a href="https://economicanalysiswithmatrices.github.io/zombie-story/">The final version of the story is available here</a>)
+
 In this assignment, you will familiarize with the Github platform and the workflow. We will create a zombie-apocalypse-themed story, all together. Each student can contribute with a small part of the story. Feel free to contribute more than once. EVERYONE MUST CONTRIBUTE AT LEAST ONCE.
 
 <img src='zombie.jpg'>
